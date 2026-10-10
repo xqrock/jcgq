@@ -42,7 +42,6 @@ env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-24.10
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: im.config
   DIY_P1_SH: impart1.sh
   DIY_P2_SH: impart2.sh
   SSH_ACTIONS: true
